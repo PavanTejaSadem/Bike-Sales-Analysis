@@ -1,5 +1,5 @@
 # Bike-Sales-Analysis
-- The main objective of this project is to create a dashboard using Excel to analyze bike sales count data across various regions, occupations, and different factors which affects the demand for bike.
+- The main objective of this project is to create a dashboard using Excel to analyze bike sales count data across various regions, occupations, and different factors which affect the demand for bikes.
 # Overview
 - Performed data cleaning to remove any duplicates, spaces, and special characters, find and replace, and formatting.
 - Created custom columns (Age Range) to extract additional information from the dataset.
